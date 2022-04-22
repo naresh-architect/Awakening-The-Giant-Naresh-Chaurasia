@@ -1,0 +1,47 @@
+= Instagram
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+
+== Mind Mapping Mastery Effective Mind Maps Step by Step - Barry Mapp
+
+
+*Maximizing Value*
+
+* [ ] *Fundamentals*: Learn the concepts
+* [ ] *Information*: Do POC from the course
+* [ ] *Skills*: Use / Implement it in Project
+* [ ] *Innovation / Expert*: Value for next 2 Years
+
+
+*Objective*
+
+* [ ] *History*:
+* [ ] *Agenda-While doing this course what is the Agenda [1,2,3,4,5..]*:
+* [ ] Exam Notes
+* [ ] *Why OneNote Notes*:
+* [ ] *What is Pending*:
+
+
+=== Section 1:
+
+*A Birds Eye View of Our Instagram Affinity Ladder Strategy*
+
+=== Section 2:
+
+*Types of Instagram Accounts*
+
+
+

@@ -1,0 +1,13 @@
+= WIP
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+== SWIFT
+
+* 1. Make *asciidoc* notes and use *Anki* in 2nd iteration. The idea is also to finish off small courses quickly.
+
+== ANKI
+
+* Anki YouTube Playlist, with YouTube bookmarks: https://www.youtube.com/watch?v=vm4oooKANzU&list=PL23mZRkthmXVskdvsX-kOuwWDSFkvYAhP&index=1

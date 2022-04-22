@@ -1,0 +1,19 @@
+= Awakening The Giant - Naresh Chaurasia
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+
+
+[cols="2,3,1"]
+|===
+|Topic |Link|Status
+
+|Integration-Architect
+|link:adoc/Mind-Maps.adoc[adoc/Mind-Maps.adoc]
+|.
+
+
+|===
+
