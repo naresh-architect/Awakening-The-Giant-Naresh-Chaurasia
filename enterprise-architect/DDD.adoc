@@ -1,0 +1,91 @@
+= DDD
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+== Domain Driven Design & Microservices for Architects - Rajeev Sakhuja
+
+=== Section1: Course Outline
+
+=== Section2: Microservices Architecture
+
+*Microservices Architecture*
+
+To build a micro services application, the micro services architecture team needs to first demarcate the business capability boundaries.
+
+Recall that each micro service related to a specific business capability, each of the *business capability* is then mapped to one or more micro services. This is where domain driven design helps in identifying the business capability boundaries.
+
+These business capability boundaries are referred to as *bounded context and domain driven design*. Each of the micro service is then assigned to a small I.T. team. This team is responsible for building and operating the micro service each team to find the contract for their micro service by coordinating with other teams. The team for the micro service then works closely with the *domain experts* to develop the domain model for their micro service.
+
+And then comes the technical design and development of the micro service. This is where the team makes technical decisions. *Strategic domain driven design patterns* are used for developing the domain model and the *technical domain driven design patterns* are used for building the micro services.
+
+*Business & Digital Transformation*
+
+Digital transformation is the process of using digital technologies to meet the needs of transformed business processes and to create innovative customer engagement mechanisms.
+
+And this is where micro services architecture can help. Micro services's architecture addresses these challenges and helps the organizations move at a faster pace to achieve their transformational objectives.
+
+*A Business Perspective of Microservices*
+
+The domain driven design bounded context is a representation of the business scope for the micro service.
+
+*Pros*:
+
+* Change management
+* Deployments
+* Failure isolation
+* Service Scalability
+* Speed to market
+* Better quality
+
+*Cons*:
+
+* Poor n/w performance
+* Monitoring is a challenge
+* Data management
+* Security management
+
+*A Technical Perspective of Microservices*
+
+Micro services also have some disadvantages. So let's go over some of the disadvantages of micro services architecture. Since Microsoft is interact with each other over a network protocol, an application built with micro services, architecture may exacerbate poor performance compared to the same application implemented with a monolithic architecture in a micro services application, each micro service manages its own database. This leads to complexity in managing data integrity. And the reason for that is that in the case of monolithic applications, you may use a common database and you may use local transactions to manage the data integrity. In the case of a distributed architecture like a micro services architecture, traditional transactional mechanisms may not work. And this leads to higher complexity. At runtime, micro services are launched as independent processes. These independent processes need to be monitored. If you have an architecture where you would need tens or hundreds of instances of the same micro servers,
+it may become challenging to monitor these micro services and to debug the micro services in case of issues. The images that you see here are the micro services maps for Amazon.com and Netflix and other common concern for micro services is that since micro services exposes interfaces in the form of APIs that lead to an expanded attack surface for micro services based application
+
+*Adoption of Microservices Architecture*
+
+* Greenfield microserivces project
+* Brownfield microserivces project
+
+=== Section 3: Introduction to Domain Driven Design
+
+*Conceptual models, Architecture and Design*
+
+*Architecture*
+
+image::Rajeev-Sakhuja-DDD/Architecture.png[]
+
+---
+
+*Design*
+
+image::Rajeev-Sakhuja-DDD/Design.png[]
+

@@ -4,16 +4,20 @@
 :sectnums:
 :sectnumlevels: 5
 
+This page will server as single source of documentation. Working code and projects will go in individual GitHub Projects. It will make it easy to share code etc.
 
+== Enterprise Architect
+
+.Enterprise Architect
 
 [cols="2,3,1"]
 |===
 |Topic |Link|Status
 
-|Integration-Architect
-|link:adoc/Mind-Maps.adoc[adoc/Mind-Maps.adoc]
-|.
 
+|Memi Lavi
+|link:enterprise-architect/Memi-Lavi.adoc[Memi Lavi]
+|.
 
 |===
 
