@@ -1,0 +1,47 @@
+= Eye Yoga - Krystal Kelly
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+== Course Name
+
+=== Exercise 1
+
+* left, nose, right
+* right, nose, left
+
+
+=== Exercise 2
+
+* Circle with Hand
+* Do with both hands
+
+=== Exercise 3
+
+* Thumb down and Thumb up, center, touch nose
+* Do with both hands
+
+=== Exercise 4
+
+* Rub hands and put on eyes
+* While eyes closed, do above exercises

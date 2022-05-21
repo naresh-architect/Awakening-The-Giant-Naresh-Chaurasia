@@ -118,6 +118,44 @@ Another important aspect of the architect's job is to know how to speak to diffe
 
 image::architecture-process.png[]
 
+=== Section 5: Working with System Requirements
+
+* What system should do: Functional Requirement
+
+** Business Flow
+** Business Services
+** User Interfaces
+
+* What should thed system deal with: NFR
+** *Performance*
+*** *Always talk in numbers*: In a lot of systems I worked on, systems were first meant 30 milliseconds and on systems that were first minute, five seconds. The problem is that your client probably wasn't thinking on the exact number and you will have to help him with that. The rule of thumb is that when there is an end user at the end of the flow, we usually need the task to be complete in less than a second when walking in a B2B environment that the business to business, we are usually looking at faster systems that can measure even one hundred milliseconds per task. The reason for that is that we human beings are less sensitive to subsequent delays. And for us, a data that is displayed in one second or seven hundred milliseconds looks almost the same. While with software running on a machine with CPU cycles of few milliseconds. This would be a very long time.
+*** *Latency*: Latency answers the question, how much time does it take to perform a single task in the application? For example, how much time will it take for the API to set the user data in the database? Or how much time will it take to read a single file from the file system?
+*** *Throughput*. On the other hand, until a completely different question, how many tasks can be performed in a given time unit?
+
+** *Load*
+*** Quantity of work without crashing
+*** Example: In WebAPI - How Many Concurrent Requests without crashing
+*** Throughput V/s Load: 100 request/sec V/s 500 request without crashing
+
+** Data Volume
+*** How much data the System will accumulate over time
+*** Helps with
+**** Deciding on Database Type
+**** Designing Queries
+**** Storage Planning
+*** Two Aspects
+**** Data Required on Day One
+**** Data Growth
+
+
+** Concurrent User
+
+** SLA
+
+*Non-Functional Requirements*
+
+
+
 === Section 8: Meet the *-ilities
 
 * Scalability – Adding computing resources without any interruptions (Horizonal Scaling)
