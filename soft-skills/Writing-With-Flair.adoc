@@ -1,0 +1,62 @@
+= Template
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+== Writing With Flair: How To Become An Exceptional Writer
+
+*Maximizing Value*
+
+* [ ] *Fundamentals*: Learn the concepts
+* [ ] *Information*: Do POC from the course
+* [ ] *Skills*: Use / Implement it in Project
+* [ ] *Innovation / Expert*: Value for next 2 Years
+
+
+*Objective*
+
+* [ ] *History*:
+* [ ] *Agenda-While doing this course what is the Agenda [1,2,3,4,5..]*:
+* [ ] Exam Notes
+* [ ] *Why OneNote Notes*:
+* [ ] *What is Pending*:
+
+
+---
+
+* History:
+* Agenda-While doing this course what is the Agenda:
+** 18.May.2022
+*** 1st Iteration. Make important information as *bold* and #yellow highlight#
+*** Focus on KeyBank Interview
+*** After completing the course, work with Jonathan Levi
+
+* Exam Notes
+* *Why OneNote Notes*:
+* *What is Pending*:
+
+== Section 1
+
+*What You Will Learn*
+
+For those of you who don't know me, I've been a journalist for more than 20 years, and was for some years a senior editor at The Wall Street Journal. In my time, I've also written for many other top news organizations, including The Economist, Bloomberg News, Dow Jones and The Financial Times. So, I've learned a lot about composing highly polished writing consumed regularly by millions of people. In this course, I'm basically going to teach you how to become an exceptional writer. The principles will help you to write better whether you're a consultant of some kind, a marketer, a salesperson a blogger, an author, a journalist or even a college student. After learning these principles, you'll become somebody whose writing stands out massively from anyone else in your field. Now, how will you achieve this? Well, you're going to learn how top editors on the most well-known newspapers put magic into their writing using techniques that hardly anyone outside of the world of top journalism knows about. The type of journalists, in fact, that I've taught writing to as part of my role as a writing coach, including most recently at The Wall Street Journal. Now, I've spent my years as a journalist trying to come up with a really powerful formula and perspective that would be capable of taking students up the steep learning curve of great writing really quickly. And in this course, you're going to find that formula. *It basically boils down to four really powerful concepts. Simplicity, clarity, elegance and evocativeness*. And believe it or not, an understanding of just those four ideas is all you need in order to turn yourself into an exceptional writer. First off, in the simplicity section you'll discover all the powerful tactics that accomplished editors and writers use to bring conciseness to their writing by removing all unnecessary fluff and complication. After you learn those techniques, your writing will no longer be slow and heavy, two of the main qualities that contribute to amateurish writing. Now, after that we'll look at the second crucial ingredient, clarity, and there I'll give you countless techniques for bringing sharpness, brightness and focus to your ideas. You'll learn how to approach sentences with extremely precise thinking about what you want to say, so that you don't get down any fuzzy or out-of-focus ideas that may turn your readers off. Then, we'll get to the third secret ingredient of exceptional writing, which is elegance, and you'll discover how "order" and "flow" can do wonders for your writing. You'll see how every sort of elegance, from the presentation of your prose, to its structure, and to its rhythm, can create a totally different kind of reading experience, when you apply this idea of elegance with skill. And finally, I'll give you a tour of the fourth quality, evocativeness. You'll learn, for instance, how varying your sentence structure, and your words, can bring a completely new flavor to your prose. And you'll discover how to make your writing more forceful and potent by turning your sentences into vivid pictures capable of firing up a reader's imagination and working on their emotions. But the best part of this second edition, is that you won't just learn these ingredients. You'll get to see how to combine them, and balance them, as an artist would, to create true magic in your writing. So why is having such profound writing skills important? Well, if you're looking to stand out in terms of your communication skills in whatever field you're in-- sales marketing consultancy anything else--you'll gain a clear advantage by knowing how top editors on magazines like The Economist craft their prose. The techniques in this course will empower you to write with a kind of style and flair that's rarely seen in the business world, and that will therefore easily be noticed by others. Or, perhaps you have your own business. If so, having these elite writing skills will undoubtedly improve your marketing copy, your sales emails, your letters to clients, your website copy, and much more. Maybe you want to position yourself as an expert, or an authority, on a certain subject, and that means promoting yourself, or your services, through things like content marketing. You might want to write articles and post them on things like LinkedIn and Facebook. The image of your company, and your own reputation, will skyrocket when your ideas are wrapped in highly professional writing that reads as beautifully as an article that you might read in The Wall Street Journal, for example. The aim of this course is to get you to where you can do that effortlessly by using the techniques I spent two decades of my life perfecting. Finally, you may be someone who wants to become a professional writer, perhaps a full time blogger or an author of best selling books. If so, these advanced writing skills will put you to the top of the pile, helping you stand out massively from all the noise that's out there on the Internet. Because, believe me, strong and sharp writing is a rare commodity on the Internet. So, whoever you are and with whatever ambition you've arrived here, I'd like to give you a very warm welcome and hope that I'll get to see you on the other side.
