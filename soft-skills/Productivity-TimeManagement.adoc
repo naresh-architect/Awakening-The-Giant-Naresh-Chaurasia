@@ -23,16 +23,6 @@ WARNING: WARNING
 
 |===
 
-
-* History:
-* Agenda-While doing this course what is the Agenda:
-** 18.May.2022
-*** 1st Iteration. Make important information as *bold* and #yellow highlight#
-
-* Exam Notes
-* *Why OneNote Notes*:
-* *What is Pending*:
-
 == Productivity and Time Management for the Overwhelmed - Josh Paulsen
 
 === Section 1: Introduction
@@ -51,7 +41,7 @@ One major source of overwhelm, I know for most of us, is caused by that open loo
 
 *Now, the other major source of overwhelm is due to complexity*, if we deem a project too large or too complex, it can freeze us in our tracks just like before. You've got to break out a pen and hash things out on paper. For example, let's say you've got a presentation do for a client. Now, that can be a very big task and one that can overwhelm you just by the size of it. Now, we're going to use this as an actual example. So let's say on your to do list, you've got something written down like most of us might do, and you just put a presentation or create presentation. Now, that itself is a pretty big task. And as that staring at you in the face, it can be overwhelming. *So what I'm going to suggest for you is instead break that down into many smaller pieces and make them as small as you possibly can*. So, for example, you know, maybe your first task is you call boss for suggestions. OK, so that could be a simple first step. Second step could be, you know, start. Outline. Maybe a third step would be to, you know, research. Evidence for whatever your presentation is going to be on, maybe another step would be to create your PowerPoint slides, then after that, maybe we're going to create notes. For each slide. Then we'll practice our overall pitch. In our presentation. And then perhaps we put something down like time, our presentation. *Now, again, this is just an example of what you might use, but the key is to come and break these down into further steps and make them as small as possible, because once you start to break these chunks down, it becomes a lot less overwhelming*. Instead of having this huge, you know, create presentation task staring you in the face. It's easy just to pick up the phone, call your boss, ask for some suggestions, and then, boom, you can come down here, you can cross this off our list, and then you can come to the next step and start your outline. Now, depending upon how overwhelmed you are, the more over overwhelmed your the smaller you need to breakdown each task. The smaller you breakdown each task, the quicker your overwhelm is going to go away and you can start knocking these off one at a time. As we get to later lectures, we're going to go into more detail on how you can combat overwhelm. But for now, what I encourage you to do is look for times when you get overwhelmed as a trigger for your procrastination and start to jot down all your tasks and everything that's in your head on paper. And if it's a complexity issue and if something's too large, break it down into smaller chunks.
 
-==== Failing to Plan
+==== Failing to Plan - here / bookmark
 
 Our next silent killer of productivity is not having a plan and one of the best ways to just about guarantee yourself to be unproductive and to get poor results is to just wing it. It may sound a little crazy, but in reality, this is exactly what most people do. And if you're honest with yourself, what does your plan look like on a daily basis now without a conscious strategy on how to manage your priorities and invest your time, you are almost certain to get caught up in the current of other people's agendas emails, phone calls and interruptions without a plan. It's incredibly easy to feel busy, but leave the office or go to bed at night wondering what the heck it was that you actually accomplished. There's a multitude of options when it comes to planning your priorities and staying organized. There's your classic to do list. You know, you can use a calendar or in this day and age there seems to be an app for just about anything. What plan or approach you actually use is much less important than the fact that you actually use something. Now, we're going to go into much further detail on future lectures, and I'm going to get you started with a couple of examples. But for right now, let's understand why having a plan is so critical.
 
