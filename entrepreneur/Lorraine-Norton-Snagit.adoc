@@ -1,0 +1,80 @@
+= Template
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+
+== Course Name: Author
+
+IMPORTANT: Answer Following questions while starting new course on Udemy / Pluralsight
+
+*Specific*
+
+* What do you want to accomplish
+* Why do you want to accomplish this goal
+* Who will be involved
+* Where it is located
+* What resources are needed
+
+*Measurable*
+
+* How will you measure your progress and how will you know if you have attained your goal?
+
+*Achievable*
+
+* The question that you should ask yourself is how can you achieve your goal?
+* Is it realistic enough based on what resources you have? If not what resources will you need?
+
+*Relevant*
+
+* How relevant is your goal to your overall mission statement? Is it worthwhile? Is this what you really want?
+
+*Time Bound*
+
+* State an exact time period that you intend to fulfill this goal. State the exact amount of months.
+
+
+== Snagit - Lorraine Norton
+
+=== Section 1.
+
+*What is Snagit?*
+
+* With Snagit, you can capture a screenshot or video of anything on your computer screen.
+
+* You can take a picture of the whole screen or just parts of it,  and you can even extend the capture to include stuff that's off screen too.
+
+* You can take a quick screen recording to help demonstrate a process.
+
+* Once you've captured your images, you can then add various annotations and special effects to an image to highlight key areas.
+
+* Edit the contents of an image, removing the bits you don't need and protecting sensitive data.
+
+* Simplify complex images to keep the focus on key areas.
+
+* There are other uses, too. You can use it to produce graphics for your presentations and reports.
+
+* You can also use it to produce images and videos that you can share on social media.
+
+=== Section 2.
+

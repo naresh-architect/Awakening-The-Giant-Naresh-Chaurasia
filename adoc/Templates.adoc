@@ -1,0 +1,133 @@
+= Template
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+
+== Course Name: Author
+
+IMPORTANT: Answer Following questions while starting new course on Udemy / Pluralsight
+
+*Specific*
+
+* What do you want to accomplish
+* Why do you want to accomplish this goal
+* Who will be involved
+* Where it is located
+* What resources are needed
+
+*Measurable*
+
+* How will you measure your progress and how will you know if you have attained your goal?
+
+*Achievable*
+
+* The question that you should ask yourself is how can you achieve your goal?
+* Is it realistic enough based on what resources you have? If not what resources will you need?
+
+*Relevant*
+
+* How relevant is your goal to your overall mission statement? Is it worthwhile? Is this what you really want?
+
+*Time Bound*
+
+* State an exact time period that you intend to fulfill this goal. State the exact amount of months.
+
+
+== Course Name
+
+*Maximizing Value*
+
+* [ ] *Fundamentals*: Learn the concepts
+* [ ] *Information*: Do POC from the course
+* [ ] *Skills*: Use / Implement it in Project
+* [ ] *Innovation / Expert*: Value for next 2 Years
+
+
+*Objective*
+
+* [ ] *History*:
+* [ ] *Agenda-While doing this course what is the Agenda [1,2,3,4,5..]*:
+* [ ] Exam Notes
+* [ ] *Why OneNote Notes*:
+* [ ] *What is Pending*:
+
+
+---
+
+* History:
+* Agenda-While doing this course what is the Agenda:
+** 18.May.2022
+*** 1st Iteration. Make important information as *bold* and #yellow highlight#
+*** Focus on KeyBank Interview
+*** After completing the course, work with Jonathan Levi
+
+* Exam Notes
+* *Why OneNote Notes*:
+* *What is Pending*:
+
+== Integration Architect
+
+[cols="2,3,1"]
+|===
+|Topic |Link|Status
+
+|Integration-Architect
+|link:adoc/Integration-Architect.adoc[adoc/Integration-Architect.adoc]
+|.
+
+|Apache Camel
+|link:adoc/Apache-Camel.adoc[Apache-Camel]
+|.
+
+|===
+
+
+
+
+
+== Numbered List
+
+.Default
+. Makes writing easy
+.. Keep focus
+.. Syntax
+. Different output formats
+
+// Start this list from 10.
+[start=10]
+.Start from 10
+. Makes writing easy
+// We can use it on all levels.
+[start=10]
+.. Keep focus
+.. Syntax
+. Different output formats
+
+== Template for JIRA
+
+* Why I am doing this course/topic
+* Does it have long term or short term benefits
+* Why is progress not happening in this course
+* What is the expected output
+
