@@ -1,0 +1,70 @@
+= Java Selenium Automation - Rohit Shetty
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+== Selenium WebDriver with Java -Basics to Advanced+Frameworks - Rohit Shetty
+
+=== Section 1
+
+=== Section 2
+
+=== Section 3
+
+==== Course Strategy to learn Java basics for Selenium Automation
+
+Welcome, guys. So in this section, I will go over some core java basics, which are needed to get started with selenium automation. OK, so there are different ways we are going to learn cassava in this course. *So first of all, before we start with any selenium basics, you need to know some fundamentals of Java, which we will be going through in this section thereafter*.
+
+*Again, selenium java, we will temporarily surveyed our Java concepts are required. I will teach parallel with selenium automation. OK, so that way you would not feel like your lost.*
+
+*And apart from that, once the selenium training is done at the end. So the last two sections of this course have again full concepts on code Java. OK, rest all codes are our topics you will find in the last two sections of the code*. So that means after completing your selenium training, you can literally learn and get more knowledge on core Java. OK, so that is the plan. *See if I teach everything right now, in the beginning, you will obviously will get deviated and your main goal of learning selenium will be sidetracked. So that's why the fundamentals, what you need, first of all, start with selenium that only I am going to teach in this section. So thereafter, we will balance Java and selenium together so that you can correlate your Java knowledge when you are actually using it in selenium*. So that way, you can remember more on the Java. Right? So that's the overall goal of this course. I already told you that in the beginning lecture just recapping because some people might get it out that way. Instructor only picking some topics in this section. Why not everything? This is a strategic way of doing it. Keeping that in mind, let's get started.
+
+*So these are some things which you have to know before you write any code*, like what are variables data types in Java and you should know how to work with arrays, loops, conditions, strings and its functions. This is important and collections topics also like what is ArrayList, why to use ArrayList and when to use that. Differences between them and all ArrayList operations and converting array to list. OK. So all these are frequently used in automation and how to declare methods and how to access method in class are outside of the class and how static you are placed in the picture. So these are some of the basics I will go through in this section and thereafter we can straightaway jump back into selenium with the knowledge of what to have taken from this in the next lecture. Let's get started by declaring variables in Java. Thank you.
+
+==== Introduction to Java variables and Data types with examples
+
+* [x] Best Selling Selenium course on Udemy
+* [ ] Best Selling Java course on Udemy
+* [ ] Highest Rated Java course on YouTube
+
+
+==== What are Arrays in Java? How to initialize and retrieve the values of array
+
+==== Introduction to For loop to iterate over array of Strings and Integers
+
+==== Enhanced for loop declaration & using Conditional statements inside the loops
+
+==== Code download
+
+==== What is Arraylist and differences between Arraylist and Arrays
+
+==== Strings in Java - How to declare Strings & Important String methods
+
+==== How to create methods and access methods using Java class objects
+
+==== Code download
+
+**Observations**
+
+* [x] The name of the topic is very long
+
