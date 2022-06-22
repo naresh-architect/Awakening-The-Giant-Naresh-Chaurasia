@@ -29,7 +29,7 @@ WARNING: WARNING
 
 === Section 2
 
-=== Section 3
+=== Section 3: Brush up Java Concepts for Selenium Automation
 
 ==== Course Strategy to learn Java basics for Selenium Automation
 

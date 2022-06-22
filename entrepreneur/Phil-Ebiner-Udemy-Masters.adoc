@@ -24,41 +24,11 @@ WARNING: WARNING
 |===
 
 
-== Before You Begin
-
-IMPORTANT: Answer Following questions while starting new course on Udemy / Pluralsight
-
-*Specific*
-
-* What do you want to accomplish
-* Why do you want to accomplish this goal
-* Who will be involved
-* Where it is located
-* What resources are needed
-
-*Measurable*
-
-* How will you measure your progress and how will you know if you have attained your goal?
-
-*Achievable*
-
-* The question that you should ask yourself is how can you achieve your goal?
-* Is it realistic enough based on what resources you have? If not what resources will you need?
-
-*Relevant*
-
-* How relevant is your goal to your overall mission statement? Is it worthwhile? Is this what you really want?
-
-*Time Bound*
-
-* State an exact time period that you intend to fulfill this goal. State the exact amount of months.
-
-
 == Udemy Masters: Learn Online Course Creation - Unofficial - Phil Ebiner
 
 === Section 1: Course Introduction
 
-*Welcome & How It All Works*
+==== Welcome & How It All Works
 
 You just took an amazing first step into creating your next best oline course and having the most success with it. Whether you're completely new to creating online courses or you're a veteran or you're somewhere in between, this class will help you create better courses and make more money from them. So in this video I want to welcome you and thank you for enrolling and talk a little bit more about the structure of this course, how online courses actually work and then my personal secret to success. This course is all about what I've done, specifically every exact step that I've done to have success and I hope that it can help you replicate my success And I'm going to be getting more into the numbers in the next lesson, *But I've sold over a million dollars in sales with my own online courses. With my online courses I've paid off over a hundred thousand dollars in student loan debt. that's a lot of debt, I've paid for my own wedding, traveled the world and even purchased my own home with my beautiful wife Isabel*.
 
@@ -66,7 +36,7 @@ So this course is structured in the way that you are going to actually create a 
 
 After that, we learn how to publish your course, this is about where you can publish. So we'll talk about course marketplaces like Udemy, skillshare and a number of others that I had success on plus self-hosting your courses. After learning how to publish and launch your course, giving a specific step by step strategy of launching your own course. We'll talk about more promotional strategies and really growing your own business And brand how do you take it to the next level with this course, and with the next courses that you create using things like YouTube, Podcasting, Webinars and at your own website walking through the best practices for creating website that actually converts to purchasing students, will cover all of that in the latest lessons in this course. So then the key to success is making sure that you get high quality reviews of your course, if you can do that and if you have people actually watching your course, then you're going to have success. *Most of my personal sales from marketplaces ones that I'm not selling on my own come from search engine optimized courses meaning that my courses rank high in the search engines on places like Udemy or skillshare*. And the way that I get my courses to rank high is with lots of great reviews and lots of people actually engaging in the courses. So how do I do that? Well first I make a high-quality course that will get high reviews when students who actually want that course enroll in the course. So first you need to match the students expectations, you don't want to make promises that you can't keep with your course, you want to have people enroll in your course and have their expectations matched and if that happens, they're going to give a good review for your course. The next thing is driving my own traffic to the course, getting some initial students in there, so that their lessons are being played, practical exercises are being done, students are asking questions and this engagement also helps increase the keyword ranking or the search engine ranking of our courses. That's how I've had a lot of success. Now you might be sitting there saying: Well, this is great Phil, you have been doing this for a long time and it's easy for you to get a ton of course students in your courses when you lost them. But I didn't start out that way and you don't need to have an audience when you start out. When I started, I had no website I have never taught a course before, I had never really taught anything before, I know following on social media, I didn't have a YouTube channel and started from scratch. *And really the secret to my success has been: content, content, content, content, creating a lot of great courses but also surrounding content that relates to my courses like blog articles, YouTube videos, being on Podcasts, doing Webinars doing all kinds of other content that drives people to my courses* and it took me a while to get to where I am today but with this course and with all the secrets that I have now and all the tactics that I have now, you can do it a lot faster. So that's how this course is going to work, that's a little bit about how I create courses actually works and that's how I'm having success. We're going to dive in a lot deeper in the next few lessons and sections to teach you exactly step-by-step how to do these things. Again, thank you so much for enrolling in the class. I'm so excited to have you here. and like I say with all of my classes: I know it's not going to be perfect when I launch it, So if there's anything that I can do to make this course better for you specifically, reach out to me, send me a message and give me some advice for making my own courses better, that's another way that I make sure, that I have good reviews is by responding to student feedback and actually taking action. So that's something that you can do in your own classes as well. I'm so excited to brain dump all my my secrets and all the things that I've learned over the past half decade of teaching online courses. So let's get straight to it in the next few lessons.
 
-*3 Ways to Make a Course Students Love*
+==== 3 Ways to Make a Course Students Love
 
 Here are three things that you can do right now to start making your courses better, making your students happier, and getting better reviews for your course.
 
@@ -76,11 +46,11 @@ The *second thing* you can do is to add talking head footage and cut away footag
 
 And then *the third thing* you can do is to keep your students engaged after enrolling in the course is to send the messages, educational announcements or emails with bonus ideas, tips, content if you have a blog article or a podcast you listen to that you thought was interesting that your students might like and why it might help them out, send it to them they might find it valuable as well. You could also do things like holding competitions or challenges within your class telling your students to take action and to complete with the other students in your class, if you can give away some sort of prize, it won't really encourage people to take part in your competition. In my photography class, we gave away an Amazon Gift Card and we had hundreds of students submitting their best photos of the year for our annual competition. this kind of activity can also build a community within your student base and that will also help your students find value and enjoy your class better, all going back to getting more reviews which helps your course ranking and helps convert students potential students into buyers of your course. So these are three things that I want to just lead off with in this course. Three things that you can start right now doing with your own courses and three things to keep in mind if you're creating your first course for the entire process from outlining to production to launching and after you launch your course. Thanks a lot and we'll see you in another.
 
-*Tips to Improve Your Course Taking Experience*
+==== Tips to Improve Your Course Taking Experience
 
 A really quick note before we continue to help improve your course, taking experience notes at the bottom of the video player, there's an option for speeding up or slowing down the playback, depending on if I'm talking too slow or too fast. You'll also see on the other side a button where you can change the quality of the video and also turn on captions. Now, these captions are automatically generated, so they're not 100 percent accurate, but hopefully they will help you if you want to see them. There's even an option to see a full transcript of the lecture again automatically generated. Lasley Udemy will soon prompt you for a review if they have not done so already. Your review truly helps other students know whether this is the right course for them as well as helps us know whether we're making a great course or not. If you're not ready to leave a review, you can click the ask me later button. But if you do leave a review, I truly appreciate it and thank you. All right. I hope you enjoy the rest of the course.
 
-==== Proof of Success
+==== Proof of Success - In Progress
 
 NOTE: Later !!!
 
@@ -139,3 +109,34 @@ Welcome to this new section where we will be talking about creating your course.
 The *first and most basic type* is a slideshow with a voiceover. This is great for beginners, it's great for some kinds of courses where it's not really practical skills where you're teaching someone how to do something like programming or how to bake bread. These are great for beginners, they're easy to produce they are the quickest way to produce a course And you need the least amount of equipment, basically a laptop and a microphone. You can design slides for free using tools like canva or Google slides or you could use something like PowerPoint or keynote on your computer. The con of this type of lesson is that it's very easy to get boring depending on the way you design your slides and depending on how well you are has someone speaking being engaging as just a voice rather than sawn on camera and a voice it can get a little bit boring fot the student. So well it's a great way to start out. As you move further in your online course creation journey, I encourage you to do some of these other styles of lessons.
 
 *The second is video* with slides and that's what I'm doing a lot of with this course. Me on camera talking head and then I add slides or graphics. Now it could just be a full frame slide or it could be a graphic that pops up next to me. This is great because being on camera just is a little bit more engaging with students. I know that my students like my courses where I am on camera better and you have to do less work with the slides I do not like designing slides. Now I know how to make engaging slides and I've learned how to do that. but it's still one of my least favorite things to do, being on camera, allows you to create have to use less slides and make your slides more simple because you're going to be on camera most of the time and you can be engaging on camera with the audience. And being on camera it's just a direct connection with a student looking at the camera. I'm looking at you I'm connecting with you even though I'm not doing this live with you, I'm still trying to connect with you personally, it's just something about looking at the camera, eye contact, that helps with that it does take a little bit more work. You need a webcam or a camera to get good quality, maybe even some lighting maybe a different type of microphone. All things we're going to be covering in the next lesson with my recommended equipment. Taking it a step further another type of lesson is just video base where you're on camera demonstrating something. Now this is probably the most amount of work in creating a course or it's just you on camera. But if you are teaching something like something with your hand or how to even take better photos or how to cook or there's all kinds of things where you have to actually see someone doing it to, learn it properly, it's better to do it on camera rather than just with a bunch of slides. Teaching a dog obedience class is going to be a lot better if you're on camera with a dog showing the audience, showing the students what to do and seeing the dog's reaction, seeing exactly what you're doing, it's going to be a lot better than if you're just showing some pictures or not even pictures just using some text on a slide. Yes it is more work, but I would say it's a requirement for courses where you're demonstrating you have to demonstrate something on camera. And then the last type is a screencast style tutorial where you're showing someone something you're demonstrating something. But it's on the computer, so sometimes you can add graphics and slides to this as well. But most of the time it's just you walking through something on the computer, it could be web development, programming, how to use a video editing application. Really use any application on the computer, screen casting is a very easy way to do it and there's lots of tools out there that allow you to do it for free or for very cheaply that I'll talk about in the next lesson. So those are the four basic types of lessons. Start to think about what lesson type fits best for your course. And then we're going to talk about equipment. So you know exactly what I recommend for each lesson type.
+
+---
+
+== Before You Begin
+
+IMPORTANT: Answer Following questions while starting new course on Udemy / Pluralsight
+
+*Specific*
+
+* What do you want to accomplish
+* Why do you want to accomplish this goal
+* Who will be involved
+* Where it is located
+* What resources are needed
+
+*Measurable*
+
+* How will you measure your progress and how will you know if you have attained your goal?
+
+*Achievable*
+
+* The question that you should ask yourself is how can you achieve your goal?
+* Is it realistic enough based on what resources you have? If not what resources will you need?
+
+*Relevant*
+
+* How relevant is your goal to your overall mission statement? Is it worthwhile? Is this what you really want?
+
+*Time Bound*
+
+* State an exact time period that you intend to fulfill this goal. State the exact amount of months.
