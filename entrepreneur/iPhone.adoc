@@ -1,0 +1,111 @@
+= iPhone 12 mini
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+
+== iPhone Photography | Take Professional Photos On Your iPhone - Dale McManus
+
+=== Section 1: iPhone Photograpy Introduction
+
+==== Who Are You and What Am I Going to Learn?
+
+What's up? Welcome to the iPhone photography course. My name is Dale McManus and I'm a professional photographer, videographer and multi award winning YouTuber. I have a bachelor's degree in film science and nine years experience in the field of photography and filmmaking. *Here's a few of my photos I've shot 100% with my iPhone*. No fancy expensive camera apps, no additional lenses, just my phone. *My number one rule in photography is 10% gear and 90%*. What's up here? If you don't have an iPhone, that's perfectly okay, because the bulk of the principles that I teach in this course can be applied to any camera or phone. *It's less about what you use and more about how you use it*. But this course is designed around the latest iPhone and iOS. Throughout this course, I show you lots of example images, screen recordings and graphics to better illustrate the course material and keep you engaged from start to finish. I'll also be adding a recap slide at the end of most of the lectures so that you can just sit back and enjoy the course material without having to worry about taking notes until the end. We will cover everything from setup to shot composition to editing your photos completely on your phone and everything in between. This course is designed for anyone that wants to become a skilled photographer and develop a more impressive portfolio or social media account without spending thousands of dollars on expensive cameras and lenses. In this course, you're going to learn a lot of great tips for becoming a better photographer with your iPhone.
+
+Here's just a few of the things that you're going to learn
+
+* how to take stunning photos by utilizing *shot composition* and how it affects your shots.
+
+* How to optimize your iPhone camera settings for taking the best photos.
+
+* How to create depth in your photography.
+
+* How and why the best photographers tell stories in their photos.
+
+* How to utilize natural light to properly light your subjects.
+
+* How to professionally edit your photos in Lightroom on your iPhone, which is a completely free app.
+
+Whenever you're ready, let's jump right in.
+
+==== What Actually is Photography?
+
+Photography, no matter what you're shooting with, is more than the act of capturing an image. *Photography is vision. It's imagination. It's resourcefulness, adventure and authenticity. It's seeing the final result before tapping the shutter. It's not what you look at that matters, but what you see*. Anyone can click a button and take a photo, but envisioning and creating a photo worth showing is a skill that is learned and practiced. Most importantly, photography does not make perfect sense. It just has to make some sense. Photography is very arbitrary and hard to find. A true science in most art forms are the nonsensical art that can mean anything to anyone of any background is usually lazy art. This is the kind of art where someone puts a red handprint on a canvas and says that it symbolizes the political regimes in the Middle East. What? No. This takes no effort and doesn't really evoke any real emotion to someone. Put down the crack pipe and put in some effort.
+
+=== Section 2: Pre-Shooting Setup
+
+==== Turn Off Live Photo
+
+Okay. So first we're going to talk about pre shooting setup. So before you run out and put sunglasses on your dog and play paparazzi, we have to get you set up with the right settings.
+
+*First, turn off live photo. Live photo mode takes a 1.5 second video with audio before and after tapping the shutter button*. So you end up with 3 seconds of live photo that consists of maybe one good frame and another 3 seconds of awkward, smiling or blurry movement. And if you want to show off your photos, you're likely going to be putting them on social media or a website or printing them out. And live photo is going to be compressed into a single image anyway. *Now there is a great use for live photo mode to get a beautiful long exposure shot*, but I'll be covering that later in this class. But for now we won't need it because *live photos take up more storage space on your phone*. The reason is because they're not just a single photo. They're technically 45 images compiled into one short video. So let's turn it off because we're not going to need it. Just go to the camera and tap this little dotted circle so that it's grayed out with a little slash through it.
+
+==== Turn on HDR (High Dynamic Range)
+
+Next turn on HDR. *HDR stands for High Dynamic Range, and it's just a fancy word for capturing multiple exposures in the same shot*. I can get into HDR for a while, but all you really need to know for shooting HDR on your phone is that it takes a very bright image to properly expose for the shadows, a neutral image to expose for the mid tones and a dark image to properly expose for the highlights. And it combines all of them into one balanced photo with well-lit highlights and well-lit shadows. *This is very helpful for photo editing later and keeping you from blowing out parts of your image with too much light to turn it on*. *Just go to the settings. Navigate to camera. And turn on smart HDR at the bottom*.
+
+==== Turn on the Grid
+
+Next turn on the grid. The grid is very helpful for showing rule of thirds, which I'll be covering in a later lesson, as well as how to use it properly. The grid is also really helpful for getting a level frame with the horizon to turn it on. Just go to the settings, navigate to camera and turn on the grid.
+
+==== Focus Tapping, Exposure Control, & Lock Focus
+
+Okay. Next, we have to go over focus, tapping, exposure, control and lock focus. These are really important features that are pretty simple within the iPhone camera app, but a lot of people don't know that they're there or how to utilize them like they should.
+
+*First focus tapping*. When an object is in focus, that means it's within the depth of field. And the depth of field is another photography term for the range of sharpness within an image. You can have a large depth of field where everything is in focus, or you can have a small depth of field where one subject is in focus and the background is blurry, much like professional digital cameras nowadays. Since the iPhone is completely touchscreen, Apple has integrated an autofocus which works fantastically for almost any shot. But if you're shooting macro, which is close up, you may need to change your focus. Start by putting the camera up close to an object in your nearby surroundings. You can now tap on the screen in the background to focus on the back of the image, or you can tap on the subject in the foreground that's closer to the camera to put focus back on the subject. Next, exposure control. *Once you've set your focus on an object in the frame, you can now slide your finger up or down on the screen to lighten or darken your image*. The iPhone also has an auto exposure feature that automatically sets the proper exposure for whatever object you tap to focus. *If you want to lock focus, Apple has also integrated a feature to lock the focus on whatever object that you select, no matter if you change the camera position. Enable this by tapping and holding your finger on the subject of your choosing, and a yellow box will appear on the screen that says A AF Lock, which stands for Auto Exposure and Auto Focus Lock*.
+
+Also, #*quick tip*# never use digital zoom. This is when you use two fingers to zoom in and it greatly decreases the resolution of your image. This turns an HD photo into a blurry mess and if you need to get a better shot, just simply walk closer to the subject. Or if you have one of the newer iPhones with multiple lenses on it like this one, there's a function to change to a longer lens by clicking on the number two option in photo mode.
+
+==== How to Optimize Pano Mode
+
+Let's go over how to optimise pano mode. *Panoramic mode* is where your phone takes a series of pictures from left to right or right to left, and it automatically stitches them together to create a 180 degree image of your surroundings. This often looks far too wide and very annoying to post on social media. But there's a trick to using it to create a really stylish, wide angle shot that looks as though you bought a special lens for your phone. Now, if you have one of the newer iPhones with three different lenses on it, you can simply open the camera, go to photo mode, and tap the 0.5 button to get a wide angle. But in case you don't have this option, here's a cool trick. Simply open the camera. Swipe to slide over to pano mode. Tap the shutter, which is the white button, and slide across your subject while keeping your phone as level as possible. And also be sure to go slowly because your camera has to set a new exposure for each picture it takes to make up the full panoramic image and then tap the white button again to stop wherever you want. If done right, you'll end up with a very GoPro wide angle style image that can look very professional. This feature can also be used vertically to simply turn your phone on its side and repeat the process to take an extra tall, wide angle photo. Keep in mind that the closer you stand to your subject, the better this is going to look. If the base of your subject fills the frame when you start it, it's usually going to end up looking really nice. I use this all the time whenever I photograph architecture.
+
+=== Section 3: The 4 Types of Shot Composition for Better Photography
+
+==== What is Shot Composition?
+
+Now onto one of the most important aspects of photography. Shot composition. *Shot composition is the make it or break it between professionalism and amateur hour*. You could take the trip of a lifetime and tell your subject to go stand in front of a landscape so beautiful it could be a MacBook screensaver and take a photo that even your mother wouldn't want to hang on the fridge. This is because it wasn't taken with proper shot composition. So what is shot composition? Well, first, let's start with a shot. A shot is just a frame arranged with objects and shapes to make up a composition. *So shot composition is just arranging these objects and shapes with purpose*.
+
+Let's face it, humans are impatient creatures in the first quarter. Second, that our eyes look at a picture, we subconsciously gather the most important parts of that image before our brains even have time to catch up. So when you look at an UN composed image, your eyes take too long to find the subject, thus judging the photo as bad. When you look at a composed image, your eyes take less time to find the subject and gather the information, thus saving your brain time. Your brain likes this. This is why learning about shot composition is so important because it helps guide the viewer's eyes through the image as quickly as possible. So with that being said, here are four basic types of shot composition I want you to commit to memory. Head on to the next lesson to find out.
+
+==== Perspective
+
+Number one perspective, you can use different angles to change the feeling of any shot. If there's a shot that you want but the first attempt was kind of iffy, then a simple change of perspective may get you what you're looking for. *There's four basic types of perspective low angle, high angle, lateral movement, and first person POV*.
+
+*Low angle* brings the viewer back to a child's perspective. The world seems so much bigger and your subject is much more superior at this angle. This angle is achieved by simply being lower to the ground than your subject and shooting up at it. Take this city, for example. The lower that you shoot, the bigger the city looks. Typically, when we look up to something, we value it highly. The same goes for photography.
+
+*Next high angle*. High angle can make your subject appear smaller and increase depth in your image. Try getting above your subject and shooting down at it. It can also make your subject appear inferior. So keep this in mind.
+
+*Next lateral movement*. This is basically moving from left to right on a lateral plane or right to left. Take this, for example, three different images of a road taken at three different positions on a lateral plane. You can position the camera on the right, left or the center and anywhere in between to change the viewer's perspective. Try out different lateral positions while photographing a subject and see which angle you like most.
+
+*And first person POV* POV stands for point of view. First person point of view shots are great because it places the viewer in the eyes of the photographer. It creates realism by placing arms or legs in the shot. You can get a wide angle POV shot like this by using the pano trick that I talked about earlier or a wide angle on a newer iPhone.
+
+==== Vantage Point
+
+---
+
+image::c:/nc/bookmark.png[]
+
+---
+
+Number two is vantage point. This is one of the most helpful concepts for photographers to find great photos everywhere they look. A vantage point is a point of focus created by leading lines. Your eyes like to be guided, so we use lines in everyday life to steer or lead the viewer to a single point. These lines can be found in almost anything buildings, streets, trees, mountains, water, and plenty more. These lines begin at the outside of the frame and travel inward to a single point. There are two different types of leading lines. There's geometric and organic. Geometric lines are found in streets and buildings. They're straight and much more obvious to follow. Organic lines are often found in nature, such as mountains, rivers, pathways, trees, or even reflections on the water. They tend to bend and curb much more than geometric lines, but always lead to a specific area. These lines can simply be the contrast between light and shadow, or between colors like a green mountain against a blue sky. Here's a good example of geometric leading lines to one vantage point. Here's an example of organic. And lastly, this one doesn't use exact lines, but rather the bottoms of the trees all line up to lead to a single spot.
