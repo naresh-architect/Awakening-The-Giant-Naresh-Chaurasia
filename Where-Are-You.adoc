@@ -1,0 +1,32 @@
+= Template
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
+== Connect2Tech
+
+=== Slides
+
+* C:\Users\naresh\Documents\MyDocuments\connect2tech.in\connect2tech.in-Slides
+* C:\Users\naresh\Documents\MyDocuments\connect2tech.in\Templates
+**
