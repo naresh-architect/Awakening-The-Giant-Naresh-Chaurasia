@@ -6,18 +6,22 @@
 
 This page will server as single source of documentation. Working code and projects will go in individual GitHub Projects. It will make it easy to share code etc.
 
-== Enterprise Architect
+== Technical
 
-.Enterprise Architect
 
 [cols="2,3,1"]
 |===
 |Topic |Link|Status
 
-
 |Memi Lavi
-|link:enterprise-architect/Memi-Lavi.adoc[Memi Lavi]
+|link:technical/Memi-Lavi.adoc[Memi Lavi]
 |.
+
+|Michael Pogrebinsky
+|link:technical/Michael-Pogrebinsky-Architecture.adoc[Michael Pogrebinsky]
+|.
+
+
 
 |===
 
