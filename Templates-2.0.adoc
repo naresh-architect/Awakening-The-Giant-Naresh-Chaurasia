@@ -93,12 +93,9 @@ IMPORTANT: Answer Following questions while starting new course on Udemy / Plura
 |Topic |Link|Status
 
 |Integration-Architect
-|link:adoc/Integration-Architect.adoc[adoc/Integration-Architect.adoc]
+|link:README.adoc[README.adoc]
 |.
 
-|Apache Camel
-|link:adoc/Apache-Camel.adoc[Apache-Camel]
-|.
 
 |===
 
