@@ -14,7 +14,7 @@ This page will server as single source of documentation. Working code and projec
 |Topic |Link|Status
 
 |Memi Lavi
-|link:technical/Memi-Lavi.adoc[Memi Lavi]
+|link:technical/Memi-Lavi-Architect.adoc[Memi Lavi]
 |.
 
 |Michael Pogrebinsky

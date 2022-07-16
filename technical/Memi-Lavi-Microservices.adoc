@@ -124,6 +124,47 @@ But actually, there are also advantages in the monolith architecture. Let's see 
 
 ==== Service Oriented Architecture
 
+And the second architect who we'll look at in our history class is S oa or service oriented architecture. So what do we need to know about service oriented architecture? Well, first, that the term service oriented architecture was the first coined in 1998. And the basic premise of SOA is that APS are basically services exposing functionality to the outside world. Remember what we said about the monolith, that it is often a silo? Well, with service oriented architecture, it's the other way around. The emphasis with SOA is about sharing and giving. The app is built from the ground up with sharing capabilities, usually using a well-defined API. And the way to communicate with that API is by consuming the services metadata. With SOA, every service advertises its capabilities and the way to consume them using a well-defined metadata file, which is usually implemented using soap and WSLD. Now, if you're not familiar with soap and WSLD, don't feel bad. These formats were introduced at the beginning of the millennium and they were the first standard for Web API. Soap is a protocol for Web service and it's basically a long and complicated XML document WSDL is another example document containing the meta data about the service, which method it exposes, what parameters they expect and what data they return as what we'll see later. *The fact that most SOA based apps were based on soap and WSDL was one of the key factors in this SOA eventual failure*. Another important aspect of SOA is the use of ESB.
+
+*ESB, which stands for Enterprise Service Bus, is a family of products that were designed to mediate between the client and the services and between the services themselves*. *The ESB claimed to provide all the crosscutting concerns of the saw based application for authorisation, authentication, routing, validation, monitoring and more*. Looks good on paper, but turned out to be a huge problem. Anyway, let's look at an example. So we have an HR App and Purchase App called in accordance with a SOA concept. It's our service and purchasing service respectively in order to be wharfie services. Both of them exposed functionality through so endpoints. Using these endpoints, the services can communicate with each other using standard technology agnostic protocol supported by the majority or sort of vendors on the planet. Now note the client at the middle of the slide. *As you can see, the client does not talk directly to any one of the services. Instead, we have the Enterprise Service Boss or ESB, that ESB is a channel between the services in the organization and it is the only tool that communicate with the services. So if the client wants to communicate with the service, it goes to the ESB and the ESB knows which service is the real target here and wrote the request to the appropriate service. This way, the client has no idea what are the services that exist in the organization and it needs to know only a single thing. How to talk to the ESB. That's definitely a sound idea*.
+
+image::memi-levi/ms-soa.png[]
+
+But as you will see later, it caused a lot of problems. So what are the pros of the saw paradigm? What made it so popular back in the days? Well, the *first and obvious advantage was* that it allowed for the first time sharing of data and functionality between systems and to do so in easy standard and the platform agnostic we remember before. So we had the monolith which did not exposed anything to the outside world. If you wanted your system to grab some data from a Monolit system, you had to call the developers of that system to a meeting. Explain the situation to them. Try to convince them to develop some loophole in their precious system so that you can exploit it to grab some data and walk with a fragile interface. They agreed to provide it, but now with a SOA paradigm, all is different and do much better. If you wanted to retrieve some data from other application, all you had to do is access it with the document. Find out how its web methods are constructed. Construct your own client for that method and voila, you have access to that data without talking to anyone in the process. And what's even better? There were a multitude of tools that automated the whole process and could generate a good looking client library for every Web service just by accessing its WSDL. The field version of Visual Studio, then called Visual Studio .NET had this capability and it proved to be one of the most effective capabilities. Ever added to this idea? So this is what advantage. *The second one is polyglot*. We will talk about polyglots in length later in this course. But for now, let's just say that *polyglot allows us to avoid platform dependency*. What this means is that because the communication between services is done using standard protocol. SOAP and WSDL, it's not important. What is the actual platform? The service is developed in. And so for the first time in history, a Java service could easily communicate with a .NET service. And what's even better? They both didn't have to be aware of the underlying platform of the other. *This capability was one of the major key success factors of the service oriented architecture* paradigm. And It is considered, even today, one of the cornerstones of every successful distributed architectural. OK. So that was the service oriented architecture and that concludes our history class. And now let's move on to the next section.
+
+=== Section 3: Problems with Monolith and SOA
+
+==== Introduction
+==== Single Technology Platform
+==== Inflexible Deployment
+==== Inefficient Compute Resources
+==== Large and Complex
+==== Complicated and Expensive ESB
+==== Lack of Tooling
+
+=== Section 4: Microservice Architecture
+
+==== Introduction
+
+==== Componentization
+
+==== Organized Around Business Capabilities
+
+==== Products not Projects
+
+==== Smart Endpoints and Dumb Pipes
+
+==== Decentralized Governance
+
+==== Decentralized Data Management
+
+==== Infrastructure Automation
+
+==== Design for Failure
+
+==== Evolutionary Design
+
+==== Summary
 
 
 
