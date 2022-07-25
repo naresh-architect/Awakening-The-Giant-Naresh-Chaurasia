@@ -1,4 +1,4 @@
-= Template
+= DaVinci Resolve Phil Ebiner
 :toc: left
 :toclevels: 5
 :sectnums:
@@ -41,7 +41,7 @@ WARNING: WARNING
 * [ ] *Why OneNote Notes*:
 * [ ] *What is Pending*:
 
-== Da Vinci Resolve
+== Da Vinci Resolve - Kashif A
 
-* C:\nc\Udemy-Download\Louay-Zambarakji-Da-Vinci
+* C:\nc\Udemy-Download\Phil-Ebiner-DaVinci Resolve
 
