@@ -21,6 +21,10 @@ This page will server as single source of documentation. Working code and projec
 |link:technical/Michael-Pogrebinsky-Architecture.adoc[Michael Pogrebinsky]
 |.
 
+|Nigel Poulton
+|link:technical/Nigel-Poulton-Docker-k8s-big-picture.adoc[Nigel-Poulton-Docker-k8s-big-picture]
+|.
+
 
 
 |===
