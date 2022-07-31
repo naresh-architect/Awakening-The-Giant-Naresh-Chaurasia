@@ -1,0 +1,30 @@
+= Template
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+
+
+== Marathi - Avdhut Haldankar
+
+* My Name is Naresh
+** माझे नाव नरेश आहे
+
+* I live in Pune
+** मी पुण्यात राहतो
+
+* I am engineer
+** मी इंजीनियर आहे
+
+* I work at Cognizant
+** मी Cognizant मध्ये/Madhe Job करतो
+
+* I am a native of MP
+** Me Mulcha MPcha aahe
+
+* I am 45 Years old
+** मी 45 वर्षांचा/Varshancha आहे
+
+
+
