@@ -1,4 +1,4 @@
-= Template
+= Marathi
 :toc: left
 :toclevels: 5
 :sectnums:
@@ -18,13 +18,24 @@
 ** मी इंजीनियर आहे
 
 * I work at Cognizant
-** मी Cognizant मध्ये/Madhe Job करतो
+** मी Cognizant मध्ये/Madhe (में) Job करतो
 
 * I am a native of MP
 ** Me Mulcha MPcha aahe
 
-* I am 45 Years old
-** मी 45 वर्षांचा/Varshancha आहे
+
+
+---
+
+My Name is Naresh
+
+I live in Pune
+
+I am engineer
+
+I work at Cognizant
+
+I am a native of MP
 
 
 
