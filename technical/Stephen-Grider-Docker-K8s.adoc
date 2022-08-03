@@ -39,3 +39,5 @@ In the last section, we had a long discussion about the relationship between a c
 === Section 2: Manipulating Container with the Docker Client
 
 
+
+
