@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../Java-Architect/SpringFramework/pom.xml" />
         <option value="$PROJECT_DIR$/../Cloud-Architect/AWS-Cloud-Computing/pom.xml" />
+        <option value="$PROJECT_DIR$/../API-Architect/API-REST-Architect/pom.xml" />
+        <option value="$PROJECT_DIR$/../DevOps-Architect/DevOps-Cloud-Architect/pom.xml" />
       </list>
     </option>
   </component>
