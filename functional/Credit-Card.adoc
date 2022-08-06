@@ -1,0 +1,44 @@
+= Credit Cards
+:toc: top
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+*Maximizing Value*
+
+* [ ] *Fundamentals*: Learn the concepts
+* [ ] *Information*: Do POC from the course
+* [ ] *Skills*: Use / Implement it in Project
+* [ ] *Innovation / Expert*: Value for next 2 Years
+
+
+*Objective*
+
+* [ ] *History*:
+* [ ] *Agenda-While doing this course what is the Agenda [1,2,3,4,5..]*:
+** Make asciidoc notes in 1st iteration and use anki in 2nd iteration. The idea is also to finish off small courses quickly.
+* [ ] Exam Notes
+* [ ] *Why OneNote Notes*:
+* [ ] *What is Pending*:
+
+
+
+== Credit Card
+
+=== Section 1
+
+==== An Introduction
+
+This training will give you an introduction to the basic concepts behind payment card security in accordance with the payment card industry data security standard, or PCIDSS. This is a set of security requirements that your organization must observe to guarantee the security of personal information and credit card data. What is the idea standard PCIDSS. PCIDSS is a set of business and security requirements designed to ensure that organizations that process store or transmit payment card data maintain a secure environment. This training will refer to both credit cards and payment cards. But it is important to understand that PC idea applies not only to credit cards but also to debit cards and similar payment cards issued by any of the five participating financial institutions PCIDSS was created in 2004 by the founding members of the PCI Security Council, *the members, our Visa, MasterCard, American Express, Discover Financial Services and the Japan Credit Bureau, or JCB*. These financial institutions are sometimes called the five brands. The Security Council oversees. The administration and management of PCIDSS regulations. PCI, DIA says, is extremely important for the security of banks, payment service providers, merchants and customers. *Banks are the issuers of payment cards, payment service providers, process payment card transactions. Merchants accept payment cards as payment for goods or services, and customers use payment cards to purchase goods or services*. *Any organization that accepts payment cards as payment for goods or services is classified as a merchant* by SS because of this broad definition, many different types of organizations or merchants. These include large supermarket chains, convenience stores, pharmacies, restaurants, educational establishments, hotels, hospitals, insurance companies. There are millions of organizations that are classified as merchants in the United States, and each of them must demonstrate compliance with PCI DNS. Why is PC as important fraud involving payment cards has become a large and growing problem. There has been a steady drumbeat of news stories about large breaches of credit card data, often involving the data of millions of customers. However, many smaller breaches are never reported in the media. These breaches have cost merchants and banks billions of dollars and many organizations have suffered tremendous damage to their reputation for customers, a breach can result in fraudulent charges and even identity theft. Identity theft refers to all types of crime in which someone wrongfully uses another person's personal data in some way that involves fraud or deception, typically for financial gain. A recent study estimates that about one third of consumers in the United States have suffered payment card fraud within the last five years. PCI says, was created in response to a number of high profile breaches of payment card data. Unfortunately, large breaches have continued, largely because many organizations have failed to comply with PCI disease requirements. TJX is a retail giant that operates discount retail stores such as TJ, Max and Marshals. In 2007, TJX acknowledged that hackers stole at least 45 million debit and credit card numbers over an 18 month period in 2003 by penetrating the company's computer network. The breach occurred because the wireless network of a Marshall store was not properly secure, which allowed hackers to access the network. The breach cost TJX two hundred fifty six million dollars in just the first year after it reported the breach. It was the largest theft of payment card data in history at the time. More recently, Target Corp. announced another large breach of payment card data in December 2013. In this case, hackers stole approximately 40 million cards, apparently when malware was installed on the company's network through a vendor. This breach occurred despite the fact that Target had invested millions of dollars in security software. Unfortunately, security personnel failed to respond adequately to notifications that the network had been compromised, according to the company, in just the two months following the announcement, Target spent sixty one million dollars responding to the breach and analysts estimated that the final cost would reach billions of dollars. Home Depot Inc. announced an even larger breach of about 56 million cards in September 2014. Early reports suggested that Home Depot had not conducted comprehensive scans of its computer networks each quarter as PC idea as requires. Again, the final cost of this breach is likely to reach billions of dollars. Remember that for every large breach, there are thousands of smaller breaches that go unreported by the media payment card. Data breaches are a real threat to both businesses and customers. Fortunately, most breaches can be prevented by following PC I.D. requirements. Learning how to protect payment card data is vital for anyone who is involved with handling or processing payment cards.
+
+
