@@ -1,0 +1,22 @@
+alias k="kubectl"
+
+k cluster-info
+
+k get all
+
+k get pods
+
+k get servcies
+
+
+kubectl apply -f https://raw.githubusercontent.com/kubernetes/dashboard/v2.5.0/aio/deploy/recommended.yaml
+
+---
+
+k run my-nginx --image=nginx:alpine
+k get pods
+k port-forward my-nginx 8080:80
+k deleted pod my-nginx
+
+
+

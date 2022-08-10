@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Awakening-The-Giant-Naresh-Chaurasia" />
+        <module name="talk2naresh" />
       </profile>
     </annotationProcessing>
   </component>
