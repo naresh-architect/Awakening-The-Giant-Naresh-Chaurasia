@@ -1,0 +1,37 @@
+= Thought Paper / White Paper Microservices
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+
+== Eureka Discovery Services
+
+== Spring Cloud API Gateway & Load Balancer & Filters
+
+== Spring Cloud Bus
+
+== API Security using KeyCloak Auth Server
+
+== Implementing Spring Cloud Config
+
+== Microservices and Persistence Layer using MySQL, H2
+
+== Microservices Communcations
+
+== Microservices Communication - Circuit Breaker and Retry
+
+== Distributed Tracking with Sleuth and Zipkin
+
+== Aggregating Log Files with ELK Stack
+
+== Containerization of Microservices
+
+== Event Driven Microservices Architecture using Kafka Eco System
+
+== Distributed Microservices Transaction Management using SAGA Pattern and AXON Framework
+
+== Deploying in Multiple Environments: Dev, Test, Prod
+
+
+
