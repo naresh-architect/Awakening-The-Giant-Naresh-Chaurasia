@@ -1,0 +1,269 @@
+= Hugo
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+== Important Links
+
+https://hugo-mini-course.netlify.app/
+
+== Responsive Themes
+
+=== Hugo Relearn Theme
+
+* https://themes.gohugo.io/themes/hugo-theme-relearn/
+* https://mcshelby.github.io/hugo-theme-relearn/basics/installation/
+* https://mcshelby.github.io/hugo-theme-relearn/
+* https://github.com/McShelby/hugo-theme-relearn/discussions
+
+
+== Project Details and Locations
+
+* C:\nc\Entrepreneur\blogging-templates
+** Templates for blogging
+* C:\nc\Entrepreneur\github-blogs\blog-code-git
+** Code checked in GitHub for sharing etc.
+* C:\nc\Entrepreneur\github-blogs\connect2naresh-blog
+** The actual project
+
+* C:\nc\Entrepreneur\github-blogs\nareshchaurasia
+** talk2naresh
+
+----
+hugo new --kind chapter course/_index.md
+hugo new course/python-kids.md
+hugo new basics/second-content/_index.md
+
+----
+
+== Migrate from WordPress to Hugo, Step by Step
+
+=== Section 1
+
+=== Section 2
+
+=== Section 3
+
+=== Section 4
+
+=== Section 5
+
+* Copying the content in config.toml
+
+=== Section 6
+
+* Image
+
+=== Section 7
+
+* Netlify uses CI / CD
+
+
+
+== Getting Started with GitHub Pages
+
+* https://www.youtube.com/watch?v=QyFcl_Fba-k&list=PLDe3_HhjV1fpQnUbu61rGEi8rh8Sqb2_c&index=12&t=453s
+* 04:03 simple index.html on main branch.
+* 07:50 Website on different branch.
+
+== Creating a Blog with Hugo and Github in 10 minutes
+
+* https://www.youtube.com/watch?v=LIFvgrRxdt4&list=PLDe3_HhjV1fpQnUbu61rGEi8rh8Sqb2_c&index=6&t=550s
+* blog repo - used for storing code (*connect2naresh-blog*)
+* thesimpleengineer.github.io - production repo, where we deploy from (*connect2naresh*)
+
+----
+git clone git@github.com:Naresh-Chaurasia/blog.git
+
+cd blog
+
+hugo new site thesimpleengineerblog / blog-code
+
+cd thesimpleengineerblog
+cd themes
+git clone https://github.com/niklasbuschmann/contrast-hugo.git
+# git clone --depth 1 https://github.com/giraffeacademy/ga-hugo-theme
+
+hugo new posts/mypost.md
+----
+
+*config.toml*
+
+----
+baseURL = 'https://thesimpleengineer.github.io/'
+languageCode = 'en-us'
+title = 'Welcome to Hugo'
+theme = 'contrast-hugo'
+----
+
+*Another Repo*
+
+----
+git clone git@github.com:Naresh-Chaurasia/thesimpleengineer.github.io.git
+
+cd thesimpleengineer.github.io
+
+git checkout -b main
+
+touch README.md
+
+git add .
+
+git commit -m "addming readme"
+
+git push origin main
+
+C:\nc\Entrepreneur\blog\thesimpleengineerblog>git submodule add -b main git@github.com:Naresh-Chaurasia/thesimpleengineer.github.io.git public
+
+C:\nc\Entrepreneur\github-blogs\connect2naresh-blog\blog-code>git submodule add -b main git@github.com:Naresh-Chaurasia/connect2naresh.git public
+
+hugo -t contrast-hugo
+
+C:\nc\Entrepreneur\blog\thesimpleengineerblog>cd public
+
+C:\nc\Entrepreneur\blog\thesimpleengineerblog\public>git remote -v
+
+
+git add .
+git commit -m "first commit"
+git push origin main
+----
+
+== Hugo Image
+
+{{< figure src="../img/img.png" title="the image title" >}}
+
+
+== Hugo Commands
+
+[source,shell script]
+----
+
+# create a site
+hugo new site nareshchaurasia
+
+cd nareshchaurasia
+
+# launch visual studio code
+code . 
+
+# checkout theme
+cd themes
+git clone --depth 1 https://github.com/giraffeacademy/ga-hugo-theme 
+
+# create content
+hugo new a.md
+hugo new dir1/b.md
+
+----
+
+== YouTube Playlist
+
+https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3[Hugo Tutorial]
+
+* *Tutorial 1* - Introduction to Hugo | Hugo - Static Site Generator
+** 01:03 Hugo Make use of GO Programming
+** 04:48 Simple Comparison static V/s dynamic website.
+
+---
+
+* *Tutorial 4* - Creating a New Site / Directory Structure | Hugo - Static Site Generator
+** 02:51 archetype: what is common to entire website.
+** 03:53 content: All the content / blogs will go here.
+** 04:13 data: It is sort of database.
+** 04:46 layout: header and footer etc. It is layout.
+** 05:31 static: All static elements will go here. CSS, JS etc.
+
+---
+
+* *Tutorial 5*
+
+** 04:02 Theme URL
+
+---
+
+* *Tutorial 6* - Creating & Organizing Content | Hugo - Static Site Generator
+** 01:35 Creating a new content, md file.
+** 02:39 Creating md file inside folder.
+** 04:10 Rendering draft file hugo server -D
+** 06:19 List Content - A content containing other content.
+
+---
+
+* *Tutorial 7* - Front Matter | Hugo - Static Site Generator
+** Front Matter - Meta Data
+
+[source,shell]
+----
+title: "Emotional Intelligence"
+date: 2022-03-19T12:22:18+05:30
+draft: false
+tags: ["EQ"]
+categories: ["Personal Development","Soft Skill"]
+----
+
+---
+
+* *Tutorial 8*: Archetype
+** 01:27 C:\nc\Entrepreneur\connect2naresh\nareshchaurasia\archetypes\default.md - For each md file created.
+** 02:06 This is the file where front matter changes are to be done.
+** 03:15 If I am creating md file in dir1, then I can define the front matter for dir1
+
+`default.md`
+
+----
+---
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
+draft: true
+---
+----
+
+`a.md`
+
+----
+---
+title: "A"
+date: 2022-03-31T09:25:59+05:30
+draft: true
+---
+
+
+----
+
+
+* 03:36 archetypes for dir1 folder. i.e the files created inside the dir1 folder, what structure they will have.
+
+---
+
+* *Tutorial 9*: Shortcodes
+** Refer Example of YouTube
+
+---
+
+* *Tutorial 10*: Taxonomies
+* Logically group different pieces of information together.
+* tags &amp; categories
+* Creating custom Taxonomies
+
+---
+
+* *Tutorial 11*: Templates
+* Hugo Theme is made up of Hugo Templates
+* Single Template
+* List Template
+* C:\nc\Entrepreneur\connect2naresh\nareshchaurasia\themes\ga-hugo-theme\layouts\_default
+
+---
+
+* *Tutorial 12*: List Page Templates
+* 02:50 how to create new list template / change existing template.
+* Good. Worthy of revision
+* Tutorial 13: Single Page Templates
+* 02:15 How to override template / create single page template.
+* Tutorial 14: HomePage Template. index.html
+* Tutorial 15: Section Template
+* Basically different template for different folders
+* Tutorial 15: Base Template
+* Tutorial 23: creating static website

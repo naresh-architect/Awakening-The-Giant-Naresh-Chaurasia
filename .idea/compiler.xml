@@ -6,9 +6,37 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Users-ReferenceImplementation" />
+        <module name="connect2naresh" />
+        <module name="ApiGateway-ReferenceImplementation" />
         <module name="Awakening-The-Giant-Naresh-Chaurasia" />
-        <module name="talk2naresh" />
+        <module name="Eureka-Discovery-Service-ReferenceImplementation" />
+        <module name="AccountManagement-ReferenceImplementation" />
+        <module name="REST-CRUD-ReferenceImplementation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="ApiGateway" target="11" />
+      <module name="DiscoveryService" target="11" />
+      <module name="PhotoAppApiAccountManagement" target="1.8" />
+      <module name="PhotoAppApiAlbums" target="1.8" />
+      <module name="PhotoAppApiUsers" target="1.8" />
+      <module name="PhotoAppDiscoveryService" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AccountManagement-ReferenceImplementation" options="-parameters" />
+      <module name="ApiGateway" options="-parameters" />
+      <module name="ApiGateway-ReferenceImplementation" options="-parameters" />
+      <module name="DiscoveryService" options="-parameters" />
+      <module name="Eureka-Discovery-Service-ReferenceImplementation" options="-parameters" />
+      <module name="PhotoAppApiAccountManagement" options="-parameters" />
+      <module name="PhotoAppApiAlbums" options="-parameters" />
+      <module name="PhotoAppApiUsers" options="-parameters" />
+      <module name="PhotoAppDiscoveryService" options="-parameters" />
+      <module name="REST-CRUD-ReferenceImplementation" options="-parameters" />
+      <module name="Users-ReferenceImplementation" options="-parameters" />
+    </option>
   </component>
 </project>

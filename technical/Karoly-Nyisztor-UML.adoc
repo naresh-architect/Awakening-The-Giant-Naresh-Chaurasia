@@ -23,8 +23,11 @@ WARNING: WARNING
 
 |===
 
+UML and Object-Oriented Design Foundations - Karoly Nyisztor
 
-== UML and Object-Oriented Design Foundations
+== UML and Object-Oriented Design Foundations - Karoly Nyisztor
+
+NOTE: Sequence Diagram
 
 === Section 1: Introduction
 
